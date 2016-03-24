@@ -2,7 +2,8 @@
 name = "elinvar"
 version = "0.0.1"
 authors = [
-    "Graham Cox <graham@grahamcox.co.uk>"
+    "Graham Cox <graham@grahamcox.co.uk>",
+    "Shane DeSeranno <tyren@syntheticstream.com>"
 ]
 
 [lib]
