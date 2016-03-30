@@ -1,9 +1,10 @@
 pub mod rng;
+pub mod net;
 
 /// Simple example of a function that returns a string
-/// 
+///
 /// # Example
-/// 
+///
 /// ```
 /// use libelinvar::hello;
 /// hello();
